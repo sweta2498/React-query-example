@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "user_id": 1010,
+      "title": "Xyz",
+      "body": "abcc",
+      "id": 1
+    },
+    {
+      "user_id": 1010,
+      "title": "React",
+      "body": "Hello",
+      "id": 2
+    },
+    {
+      "user_id": 1010,
+      "title": "Sr",
+      "body": "React Query",
+      "id": 3
+    }
+  ]
+}
